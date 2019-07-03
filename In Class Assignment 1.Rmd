@@ -1,0 +1,26 @@
+---
+title: "Student Bio"
+author: "Taylor Eckert"
+date: "August 23, 2018"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+I have only lived in Louisville recently, In fact, I grew up in _Cincinnati_ and went to The **University of Cincinnati** Where I received my Bachelor's Degree in Mathematics. I moved to Louisville for my first job when I graduated in 2016. That job ended up being terrible, but ended up working out for the best because I came to the job I'm at now, Assistant General Manager at PBR Louisville on Fourth Street Live.  
+![](https://www.4thstlive.com/images/venues/PBR_160x160.png)
+
+
+<https://www.4thstlive.com/dine-drink-play/venue/10/pbr-louisville>
+
+
+I actually began the Data Analytics program at Bellarmine University, but took a break halfway through and they cancelled the program on me. I didn't want to give up becuase I ultimately want to do something in this field. 
+I enjoy traveling, kayaking, and hanging out with my dog. 
+
+
